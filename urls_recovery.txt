@@ -1,0 +1,9 @@
+https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/2a11171e8702add1ee8ebb7b02fa3e511495c537/Pluto%20Tv/pluto.m3u8
+https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Indian%20Playlist/weekly-updated.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-iptv%20premium.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/in.m3u
+https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/bd20a52f98628824540f64df1318e14c777f0adb/Jio%20Tv/jio.m3u
+https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/2c64620d4ac70cdc31dff66d9f1a6ee0ce9e3f45/Movies%20Playlist/Movies.m3u
+https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/Movies%20Playlist/OD_Movies.m3u
+https://rawcdn.githack.com/OneFusionPlus/m3u-playlist/2c64620d4ac70cdc31dff66d9f1a6ee0ce9e3f45/Movies%20Playlist/Movies.m3u
+https://raw.githubusercontent.com/OneFusionPlus/m3u-playlist/main/TataSky%20Playlist/tatasky-plus.m3u

@@ -1,21 +1,19 @@
 function television(){
 
 echo "
-#  ██      ██ ██    ██ ███████     ████████ ██    ██
-#  ██      ██ ██    ██ ██             ██    ██    ██
-#  ██      ██ ██    ██ █████          ██    ██    ██
-#  ██      ██  ██  ██  ██             ██     ██  ██
-#  ███████ ██   ████   ███████        ██      ████
-#
-#
+  ██      ██ ██    ██ ███████     ████████ ██    ██
+  ██      ██ ██    ██ ██             ██    ██    ██
+  ██      ██ ██    ██ █████          ██    ██    ██
+  ██      ██  ██  ██  ██             ██     ██  ██
+  ███████ ██   ████   ███████        ██      ████
 "
 
-list_urls="$(curl -s 'https://pastebin.pl/view/raw/b148be65')"
-name="$(curl -s 'https://pastebin.pl/view/raw/b148be65' | awk -F ',' '{print $2}' | sort |uniq |fzf )"
-echo "${name}"|xclip
-echo $(xclip -o)
-a="curl -s 'https://pastebin.pl/view/raw/b148be65' | grep -i -A 1 \""
-url="$a$name\""
+sed -i '/^$/d' ~/.liveTv/links.txt
+
+name="$(cat ~/.liveTv/links.txt  | awk -F ',' '{print $2}'|sed 's/^[ \t]*//'| sort |uniq |fzf )"
+a="cat ~/.liveTv/links.txt | grep -i -A 1 "
+url="$a \"$name\""
+#echo $url 
 eval "$url" | sed -n '2p' | xargs mpv
 }
 

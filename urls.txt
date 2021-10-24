@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/sony-sneh-iptv.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/snehtv-mxplayer.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/sneh-voot.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/Sony-Zee5-Sneh-IPTV.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Telugu%20Playlists/sneh-telugu.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-iptv-premium.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-tatasky-plus.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-weekly-updated.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/snehtvall.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sports-india.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-airteltv.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-allmovies.m3u
+https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-kids.m3u
